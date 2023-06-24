@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 - I had a bit of difficulty figuring out how to actually run the simulator simply because I didn't see the "play" button in the IDE. After finding this it was smooth sailing.
 
 # Citations
-This applications code was largely dirrived from the codepath ios101 prework code
+This applications code was largely derived from the codepath ios101 prework code
 https://courses.codepath.org (2023)
 
 ## License
